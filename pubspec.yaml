@@ -30,5 +30,5 @@ environment:
   sdk: ^3.6.0
 
 dependencies:
-  jaspr: ^0.22.0
+  jaspr: ^0.23.0
   universal_web: ^1.1.0
